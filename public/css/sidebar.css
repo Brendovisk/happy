@@ -1,0 +1,34 @@
+aside.sidebar {
+  position: fixed;
+  height: 100%;
+  padding: 32px 24px;
+  background: linear-gradient(500deg, #5826e4 0%, #0d68df 100%);
+  top: 0;
+  display: flex; /*Deixa uma caixa ao lado ou embaixo da outra (depende se será column ou não)*/
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+aside.sidebar footer button {
+  width: 48px;
+  height: 48px;
+  border: none;
+  background: #ffd666;
+  border-radius: 1.6rem;
+  cursor: pointer;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  transition: background-color 0.2s;
+}
+
+aside.sidebar footer button:hover {
+  background: #ff9d00;
+}
+
+.with-sidebar {
+  padding-left: 96px;
+}
