@@ -48,3 +48,18 @@ com a finalidade de aumentar a acessibilidade de pessoas com problemas visuais;
 - Deixar o ícone do Happy como um botão que ao ser clicado redireciona o usuário para a tela inicial.
 
 ## Happy 
+### Página inicial
+![tela1](https://user-images.githubusercontent.com/71789884/114742008-b0c34180-9d21-11eb-9ad0-9b95794c5342.png)
+### Página que mostra os orfanatos na região
+![tela2](https://user-images.githubusercontent.com/71789884/114742522-38a94b80-9d22-11eb-915c-ebf9cb5cff49.png)
+### Página de adicionar orfanato
+![tela3](https://user-images.githubusercontent.com/71789884/114742575-43fc7700-9d22-11eb-8018-be2c59d142d6.png)
+### Orfanato adicionado
+![tela4](https://user-images.githubusercontent.com/71789884/114742624-51b1fc80-9d22-11eb-96c4-dc7a9cdd6a48.png)
+### Consultar orfanato
+![tela5](https://user-images.githubusercontent.com/71789884/114742675-5971a100-9d22-11eb-998d-69ad18910f4c.png)
+### Resultado final
+![happy](https://user-images.githubusercontent.com/71789884/114743590-34316280-9d23-11eb-92da-ecceced98927.gif)
+*Obs: as informações contidas na aplicação são fictícias.*
+
+
