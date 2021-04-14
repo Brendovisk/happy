@@ -22,6 +22,11 @@ Uma vez que o NodeJs está instalado em seu computador, execute o seguinte coman
 ```shell
 npm install npm@latest -g
 ```
+### Instalação do Node.js web framework 
+Depois de baixado o npm, ainda será necessário mais uma etapa para iniciar a aplicação, o arquivo *node_modules*, que será criado automaticamente ao executar o comando abaixo:
+```shell
+npm install express
+```
 
 ## Inicialização do server
 Para criar o seu próprio servidor, execute o seguinte comando no terminal:
